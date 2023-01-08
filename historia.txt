@@ -2,4 +2,6 @@ Esta es mi historia estudiando Git
 
 La cual comenzó en Noviembre de 2022
 
-Y la cual espero de terminar algún día.
+Y la cual espero de terminar algún día
+
+Simplemente es un archivo de prueba.
