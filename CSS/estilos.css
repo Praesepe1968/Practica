@@ -10,12 +10,21 @@ body
 
 #container{
     width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
+    padding: 5px;
+    text-align: center;
+    border: 2px solid #DDD;
     margin: auto;
 }
 
 #container h1{
     font-size: 20px;
+}
+
+#cabecera{
+    background-color: dodgerblue;
+    padding: 2px;
+    color: whitesmoke;
+    margin-bottom: 30px;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+        
 }
