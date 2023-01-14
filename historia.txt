@@ -6,5 +6,9 @@ Y la cual espero de terminar algún día
 
 Simplemente es un archivo de prueba.
 
+<<<<<<< HEAD
 Esta línea ha sido creada por el colaborador Darío.
 
+=======
+Esta línea fuñe hecha desde la rama "cabecera"
+>>>>>>> 9c0be8f6117b5b3a2409ffc0fcec63417b36cd56

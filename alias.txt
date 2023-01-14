@@ -1,0 +1,9 @@
+CREACIÓN DE UN ALIAS, ej:
+alias arbol="git log --all --graph --decorate --oneline"
+
+
+ALIAS CREADOS
+
+NOMBRE ALIAS		LÍNEA DE COMANDO
+
+arbol			git log --all --graph --decorate --oneline
