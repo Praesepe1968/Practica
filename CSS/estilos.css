@@ -31,13 +31,12 @@ body
 
 #container-footer{
     width: 70%;
-    padding: 5px;
+    padding: 0px;
     text-align: center;
     border: 2px solid #DDD;
     margin: auto;
 }
 
 #footer{
-    background-color: dodgerblue;
-    color: whitesmoke;
+    color: rgb(5, 55, 25);
 }
