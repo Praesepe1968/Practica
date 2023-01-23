@@ -1,4 +1,4 @@
-Esta es mi historia estudiando Git
+Esta es mi historia estudiando Git y GitHub
 
 La cual comenzó en Noviembre de 2022
 
