@@ -6,6 +6,8 @@ Y la cual espero de terminar algún día
 
 Master 1
 
+Master 2
+
 Simplemente es un archivo de prueba.
 
 <<<<<<< HEAD
