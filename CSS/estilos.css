@@ -38,5 +38,6 @@ body
 }
 
 #footer{
-    color: rgb(5, 55, 25);
+    background-color: dodgerblue;
+    color: white;
 }
